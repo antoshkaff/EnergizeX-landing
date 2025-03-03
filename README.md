@@ -18,7 +18,7 @@ This project was built **based on a Figma design template**, ensuring a modern a
 
 ## 🔧 Technologies Used  
 
-- **HTML5**: Semantic and accessible structure (BEM).
+- **HTML5**: Semantic, accessible structure, BEM, SEO optimize.
 - **CSS3**: Modern and responsive styling.
 - **Vanilla JavaScript (ES6+)** – No dependencies, fully custom JS.  
 - **LocalStorage API** – Persistent cart & wishlist data.  
